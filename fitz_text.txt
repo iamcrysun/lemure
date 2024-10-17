@@ -1,0 +1,1378 @@
+Coal Trader www.spglobal.com/commodityinsights
+www.twitter.com/SPGCIShipping Now available digitally on Platts Connect Get access to this content
+plattsconnect.spglobal.com | ci.support@spglobal.com Monday, September 16, 2024 US OTC coals open week with unchanged finishes
+Platts daily physical OTC assessments, Sep 16 Prompt month price	
+Symbol	
+Btu/lb	
+Mode	
+$/st	
+Change
+CAPP rail (CSX) OTC	
+CAKM001	
+12,500	
+Rail	
+73.50	
+0.00 PRB 8,800 OTC	
+CTAM001	
+8,800	
+Rail	
+13.95	
+0.00 PRB 8,400 OTC	
+CTBM001	
+8,400	
+Rail	
+11.40	
+0.00 IB 11,500* OTC	
+CISM001	
+11,500	
+Barge	
+40.50	
+0.00 *Maximum 0.35% chlorine. See Platts Methodology and Specifications Guide at Platts.com 
+for details. Platts daily physical assessments, Sep 16 Prompt price	
+Symbol	 Kcal/kg	
+Basis	
+$/mt	
+Change
+CIF ARA	
+CSARM01	
+6,000	
+NAR	
+110.80	
+-1.50 NYMEX Henry Hub natural gas futures, Sep 16 Prompt price	
+Symbol	
+	
+	
+$/MMBtu	
+Change
+Henry Hub	
+NMNG001	
+	
+	
+2.373	
++0.068 Asian met coal market sees fresh trade at lower level; sellers await China’s return.. 2 Energy Transfer NGLs line catches fire near Houston, forcing evacuations........... 2 New York gets funding to expand EV fast charging, increasing power demand amid 
+tighter supply........................................................................ 4 IAEA sees potential for global nuclear capacity more than doubling by 2050........ 5 Alberta July coal production holds mostly steady on month at 1.3 MMt: AER........ 6 Colombia seaborne coal exports remain flat on week at 1.1 MMt: CAS................ 7 SOUTH KOREA DATA: August coal imports fall 5.5% on year on decline from small 
+importers............................................................................ 8 Russia’s Rosatom says it could restart occupied Ukrainian nuclear plant............ 8 (continued on page 9) Platts final monthly averages (Aug) Based on Platts daily physical OTC assessments ($/st) Aug-24	
+Jul-24	
+Change CAPP rail (CSX) OTC	
+CAKOM01	
+73.52	
+72.68	
++0.84 PRB 8,800 OTC	
+CTAOM01	
+13.81	
+13.80	
++0.01 PRB 8,400 OTC	
+CTBOM01	
+11.36	
+11.35	
++0.01 
+September weather expected at or near norms 
+NYMEX natural gas contract adds 6.8 cents US over-the-counter coals opened the week on Sept. 16 with a 
+slate of stable assessments, holding with average temperatures 
+expected nationwide in this shoulder season.
+S&P Global PointLogic data points to temperatures within 2 
+degrees Fahrenheit of seasonal norms through the end of the 
+month. The Northeast forecast follows that expectation, while 
+Midcontinent temperatures could rise to 6 degrees above normal 
+in the next week. Southeast temperatures are expected to stay at 
+or below seasonal averages through September. Inside this Issue
+© 2024 by S&P Global Inc. All rights reserved.
+2 Monday, September 16, 2024
+Coal Trader Asian met coal market sees fresh trade  
+at lower level; sellers await China’s return 
+Oct-loading PLV sold at $180/mt FOB 
+Indian mill seek offers for 30,000-35,000 mt Sep/Oct-
+loading PMV Asian metallurgical coal prices were largely stable with a 
+prime coal cargo sold at a lower level Sept. 16, although most 
+sellers were on the sidelines awaiting China’s return after the 
+Mid-Autumn Festival on Sept. 17.
+Platts assessed Premium Low-Vol (PLV) Hard Coking Coal 
+$1/mt lower on the day at $180/mt FOB Australia Sept. 16; PLV 
+CFR China was assessed steady at $196/mt over the same 
+time period.
+A cargo was heard traded via globalCOAL at $180/mt FOB 
+Australia, Sept. 16, for 70,000 mt of PLV coal with Peak Downs 
+or BMA PLV in seller’s option, loading Oct. 10-19. The cargo was 
+understood to be resold by an international steelmaker to an 
+Asian trader.
+An international steelmaker source said they believed the 
+Australian prime coal market still has room for downward 
+correction given the reselling interest for Q4-loading cargoes, 
+on top of the position cargoes that traders are struggling to 
+liquidate.
+Another international steelmaker source, meanwhile, said it 
+remains difficult to gauge market direction currently. “[It’s] purely 
+[a] function [of] how China behaves,” the source said.
+A seller source said it was holding back offers as multiple 
+markets in Northeast Asia were away for holidays.
+Despite expectations of a potential market rebound in China, 
+the procurement of a full Panamax of forward-delivery cargo is 
+still considered a “big bet” for Chinese mills, which are prioritizing 
+cash flow management, the seller source said.
+Pockets of demand were seen coming from India, where a 
+steelmaker is poised to collect offers by Sept.16 for 30,000-
+35,000 mt of Australian premium mid-vol coal loading in 
+September/October.
+Indian steel demand was still sluggish and such significant 
+volume demand for coking coal was not expected to arise from 
+the country in the near term, an Indian steelmaker said.
+A source with another India-based end-user said offers were 
+limited with sellers being inactive amid China’s absence.
+The market direction is still quite unclear, the source said, 
+adding even with China’s return, upside potential should be US FOB coal assessments, Sep 16 Kcal/kg NAR	
+Sulfur	
+Code	
+$/mt	
+Change
+FOB Baltimore	
+6900	
+3.00%	
+CUATB04	
+74.30	
++0.25 FOB New Orleans	
+6000	
+2.90%	
+CUAFA04	
+70.90	
++0.50 Normalized
+FOB Baltimore	
+6000	
+3.00%	
+CUADA04	
+64.60	
++0.20 Loading 15-60 day basis. Platts daily physical coal assessments, Sep 16 ($/st) Sep final	
+	
+Oct daily	
+	
+Oct	
+Daily av.	
+	
+Q3 final	
+	
+Q4 daily	
+	
+Q4	
+Daily av.
+Coal product specifications	
+	
+monthly av.	
+	
+assessment	
+	
+average	
+change	
+	
+average	
+	
+assessment	
+	
+average	
+change CAPP rail (CSX) (12,500 Btu/lb) OTC	
+CTJBM01	
+74.34	
+CTJM001	
+73.50	
+CTNAO03	
+74.17	
+-0.04	
+CTJBQ01	
+71.89	
+CTJQ001	
+73.50	
+CTNAO05	
+74.17	
+-0.04 PRB 8,800 Btu/lb OTC	
+CTKBM01	
+13.93	
+CTKM001	
+13.95	
+CTNAP03	
+13.95	
+0.00	
+CTKBQ01	
+13.70	
+CTKQ001	
+13.95	
+CTNAP05	
+13.95	
+0.00 PRB 8,400 Btu/lb OTC	
+CTLBM01	
+11.40	
+CTLM001	
+11.40	
+CTNAR03	
+11.40	
+0.00	
+CTLBQ01	
+11.26	
+CTLQ001	
+11.40	
+CTNAR05	
+11.40	
+0.00 Note: The daily prompt month price is identical to the Daily Physical OTC assessments table on Page 1. limited as Chinese mills have yet to absorb the seaborne prime 
+coal volume at the Chinese ports.
+The PLV trade on the day caught the attention from some 
+China-based market participants.
+A Chinese steelmaker source, who followed the trade, said 
+a net-forward level is deemed suitable for procurement as it is 
+only slightly above Yuan 1,600/mt on a DDP basis, which is more 
+competitive than domestic PLV.
+The source added they can only procure 10,000 mt should 
+they decide to buy.
+“It’s still hard for Chinese mills to commit to a full Panamax, 
+and most would prefer to buy port stock in smaller quantities,” a 
+Chinese trader said.
+In the met coke segment, both the FOB China and CFR India 
+prices were unchanged on the day.
+With respect to the pending price hike for China’s domestic 
+met coke, a local cokery source said the outcome would hinge on 
+the steel product price movement after the holiday.
+Platts is part of S&P Global Commodity Insights.
+— Staff News Energy Transfer NGLs line catches  
+fire near Houston, forcing evacuations 
+20-inch pipeline carried Y-grade NGLs 
+Fire expected to burn into the night 
+Early reports of car in right of way before fire Local authorities in Houston ordered evacuations and shelter-
+in-place orders Sept. 16 after an Energy Transfer pipeline carrying 
+natural gas liquids caught fire.
+The city of La Porte said its fire department responded at 9:55 
+am CT to the fire, which occurred in the neighboring city of Deer 
+Park. Authorities expect the fire to continue to burn for hours,
+Coal Trader
+Monday, September 16, 2024 © 2024 by S&P Global Inc. All rights reserved.
+3 Deer Park Mayor Jerry Mouton said during a press conference 
+Sept. 16.
+“All of the product has to burn off,” Mouton said. First 
+responders contained the fire, but it could burn “if not into 
+tonight then tomorrow.”
+Energy Transfer confirmed the fire occurred on a 20-inch line 
+carrying Y-grade NGLs, saying that no injuries were reported. 
+Local authorities later said one firefighter was treated for minor 
+injuries.
+Y-grade NGLs include ethane, propane, butane and natural 
+gasolines, according to Energy Transfer product specifications 
+and prices spiked as a result.
+Platts propane values rose to 67.50 cents/gal, up Y on the 
+day and the highest since Sept. 5, according to S&P Global 
+Commodity Insights.
+A position for propane entered the Platts Market on Close 
+assessment process for the first time in a week, and traded at 
+67.50 cents/gal, 4.75 cents/gal higher than the previous close. The 
+price was last reported higher on Sept. 5 at 69.75 cents/gal.
+“The line has been isolated so that the residual product in 
+the line can safely burn itself out,” Energy Transfer spokesperson 
+Cassidy Lamb said in a statement. “We have no timeline at this 
+point on how long that process will take, but we are working 
+closely with local authorities.”
+The pipeline operator also said it was “aware of early reports 
+indicating that an unknown passenger car entered our right of 
+way and struck the [valve] location.”
+Mouton acknowledged the presence of a vehicle near the 
+burning pipeline but declined to speculate whether it caused 
+the fire.
+The Railroad Commission of Texas announced that its pipeline 
+safety inspectors are also investigating the fire alongside local 
+authorities. The regulator said the fire occurred within a pipeline 
+corridor and that it is “notifying other pipeline operators in the 
+corridor of the incident and getting information on measures they 
+are taking to ensure safety of their systems.”
+— Jeremy Beaman, Binish Azhar NYMEX Henry Hub gas futures contract, Sep 16 Settlement	
+High	
+Low	
++/-	
+Volume Oct 2024	
+2.373	
+2.397	
+2.265	
++0.068	
+62791 Nov 2024	
+2.639	
+2.656	
+2.547	
++0.050	
+22702 Dec 2024	
+3.067	
+3.075	
+2.986	
++0.042	
+6128 Jan 2025	
+3.339	
+3.345	
+3.261	
++0.038	
+5333 Feb 2025	
+3.211	
+3.218	
+3.137	
++0.033	
+2114 Mar 2025	
+2.916	
+2.924	
+2.853	
++0.028	
+1467 Apr 2025	
+2.792	
+2.801	
+2.734	
++0.025	
+1580 May 2025	
+2.831	
+2.839	
+2.775	
++0.021	
+1197 Jun 2025	
+2.968	
+2.976	
+2.919	
++0.015	
+452 Jul 2025	
+3.124	
+3.134	
+3.078	
++0.012	
+900 Aug 2025	
+3.157	
+3.166	
+3.115	
++0.007	
+361 Sep 2025	
+3.136	
+3.145	
+3.095	
++0.005	
+467 Oct 2025	
+3.222	
+3.231	
+3.177	
++0.006	
+1026 Nov 2025	
+3.491	
+3.496	
+3.443	
++0.011	
+138 Dec 2025	
+3.881	
+3.885	
+3.828	
++0.018	
+229 Jan 2026	
+4.096	
+4.098	
+4.053	
++0.009	
+234 Feb 2026	
+3.882	
+3.884	
+3.843	
++0.007	
+109 Mar 2026	
+3.406	
+3.410	
+3.372	
++0.011	
+83 Apr 2026	
+3.105	
+3.114	
+3.075	
++0.015	
+104 May 2026	
+3.131	
+3.133	
+3.104	
++0.014	
+59 Jun 2026	
+3.259	
+3.264	
+3.235	
++0.011	
+22 Jul 2026	
+3.398	
+3.399	
+3.381	
++0.007	
+28 Aug 2026	
+3.434	
+3.444	
+3.417	
++0.006	
+40 Sep 2026	
+3.408	
+3.416	
+3.388	
++0.006	
+40 Oct 2026	
+3.471	
+3.481	
+3.456	
++0.006	
+8 Nov 2026	
+3.733	
+3.733	
+3.733	
++0.008	
+0 Dec 2026	
+4.107	
+4.111	
+4.107	
++0.011	
+52 Jan 2027	
+4.321	
+4.335	
+4.321	
+-0.004	
+6 Feb 2027	
+4.090	
+4.093	
+4.090	
+-0.003	
+1 Mar 2027	
+3.502	
+3.529	
+3.502	
+-0.002	
+27 Apr 2027	
+3.070	
+3.070	
+3.068	
++0.016	
+1 May 2027	
+3.088	
+3.088	
+3.088	
++0.018	
+0 Jun 2027	
+3.225	
+3.225	
+3.225	
++0.020	
+0 Jul 2027	
+3.369	
+3.369	
+3.369	
++0.022	
+0 Aug 2027	
+3.415	
+3.529	
+3.502	
++0.024	
+0 Sep 2027	
+3.384	
+3.384	
+3.368	
++0.026	
+1
+Coal Trader
+Monday, September 16, 2024 © 2024 by S&P Global Inc. All rights reserved.
+4 New York gets funding to expand EV fast charging, 
+increasing power demand amid tighter supply 
+$21 million available for DC fast chargers 
+Preliminary NYISO study shows power market tightening New York makes $21 million available to install electric vehicle 
+fast chargers along major corridors across the state with the 
+sites required to have no less than 150 kW of capacity which will 
+increase power demand, along with additional electrification 
+efforts and the construction of several large load projects 
+including data centers.
+The EV charging initiative is being funded by a federal National 
+Electric Vehicle Infrastructure grant, according to a Sept. 13 
+statement from New York Governor Kathy Hochul’s office.
+The state has created a competitive “Upstate NEVI 
+Direct Current Fast Charger” program to help expand DCFC 
+infrastructure making it easier for EV drivers to access a reliable 
+charging network, the governor’s office said.
+The first funding round focuses on locations along and 
+north of Interstate 84, including parts of the state north to the 
+Canadian border and west to Buffalo, the statement said.
+The funding will be available to qualified infrastructure 
+developers for installing and operating DCFC stations at one or 
+more sites along Federal Highway Administration-designated 
+“Alternative Fuel Corridors, or AFCs.
+“Proposed sites must meet all federal requirements, including 
+being located within one travel mile of an exit, being publicly 
+accessible 24 hours a day, seven days a week, and having the 
+ability to charge at least four electric vehicles simultaneously,” 
+according to the statement. Charging sites must also have no less than 150 kW of capacity 
+and must meet federal uptime requirements regarding the 
+percentage of time the charging stations are functional.
+“As we make the transition away from [gasoline] gas-powered 
+vehicles, New York is accelerating the number of electric vehicle 
+fast chargers available to reduce harmful emissions and improve 
+air quality in our communities,” Governor Hochul said. Platts daily metallurgical coal assessments, Sep 16 Atlantic coking coal ($/mt)
+	
+	
+       FOB US Symbol	
+East Coast	
+Change	
+VM	
+Ash	
+S
+Low Vol HCC	
+AAWWR00	
+190.00	
+0.00	 19.25%	8.25%	 0.95%
+High Vol A	
+AAWWS00	
+185.00	
+0.00	 32.25%	 7.5%	 0.95%
+High Vol B	
+AAWWT00	
+171.00	
++2.00	
+36%	
+8%	
+1% CFR NW Europe	 Change	
+VM	
+Ash	
+S
+PLV NetForward 	
+PLVHE00	
+194.55	
+-1.00	
+21.5%	 9.3%	 0.50% Asia-Pacific coking coal ($/mt)
+	
+	 FOB Australia	
+Change	
+VM	
+Ash	
+S
+Premium Low Vol	
+PLVHA00	
+180.00	
+-1.00	 21.50%	 9.3%	 0.5%
+Low Vol HCC	
+HCCAU00	
+155.00	
+0.00	 25.50%	 9.0%	 0.6% US low-vol HCC Penalties & Premia; Differentials ($/mt)
+	
+	
+% of US low-vol Within	
+HCC FOB USEC	
+Net value Min-Max	
+assessment price	
+($/mt)
+Per 1% CSR	
+50-64%	
+0.50%	
+0.95 40-49%	
+0.50%	
+0.95
+Per 0.1% S	
+0.70-1.05%	
+0.85%	
+1.62 1.06-1.25%	
+1.80%	
+3.42
+Per 1% TM (as received)	
+6-11%	
+1.00%	
+1.90
+Per 1% Ash	
+5-10%	
+1.75%	
+3.33 Detailed methodology and specifications are found here: http://platts.com/IM.Platts.
+Content/MethodologyReferences/MethodologySpecs/metcoalmethod.pdf Spot dry bulk freight assessments, Sep 16 Platts symbol	
+$/mt	
+Chg
+Capesize
+Australia-China	
+CDANC00	
+13.60	
++0.35 Queensland-Japan	
+CIGAJ00	
+15.30	
++0.45 New South Wales-Korea	
+CINAK00	
+16.45	
++0.45 Bolivar-Rotterdam	
+CIBCR00	
+11.20	
+-0.15 Roberts Bank-Japan	
+CDRKJ00	
+15.20	
++0.30 Panamax
+Richards Bay-India West	
+CSAKL00	
+14.75	
++0.05 Kalimantan-India West	
+CSAKP00	
+9.75	
++0.05 Richards Bay-India East	
+CSAKN00	
+15.00	
++0.05 Kalimantan-India East	
+CSAKR00	
+8.20	
++0.05 Ventspils-Rotterdam	
+CILTN00	
+7.75	
+0.00 USEC-India	
+CDBUI00	
+39.00	
++0.50 USEC-Rotterdam	
+CDBUR00	
+12.00	
++0.50 Mobile-Rotterdam	
+CDMAR00	
+15.25	
++0.50 Roberts Bank-Japan	
+CDRBK00	
+17.15	
+-0.05 Australia-China	
+CDBFA00	
+14.95	
++0.10 Australia-India	
+CDBFAI0	
+15.95	
++0.05 Supramax
+Richards Bay-Port Qasim	
+CRBPB00	
+17.45	
++0.05 South Kalimantan-Krishnapatnam	
+CISKK00	
+12.70	
++0.10 Platts physical thermal coal netbacks, Sep 16 Code	
+CV	
+Basis	
+Sulfur	
+$/mt	
+Chg (kcal/kg)
+Coal ($/mt)
+CIF ARA	
+CSARM01	
+6,000	
+NAR	
+1.0%	
+110.80	 -1.50 Platts NEAT	
+JKTCA00	
+5,750	
+NAR	
+1.0%	   112.44	 +0.11 CFR India West 	
+CIWCI00	
+5,500	
+NAR	
+0.8%	   104.20	 +0.05 Panamax Freight ($/mt)
+USEC-Rotterdam	
+CDBUR00	
+	
+	
+	
+12.00	 +0.50 Mobile-Rotterdam	
+CDMAR00	
+	
+	
+	    15.25	 +0.50 Roberts Bank-Japan	
+CDRBK00	
+	
+	
+	    17.15	 -0.05 Richards Bay-India West	
+CSAKL00	
+	
+	
+	    14.75	 +0.05 Penalties & Premia ($/mt)
+Per 0.1% Sulfur (USGC)	
+COPAP00	
+	
+	
+	
+    1.32	 -0.10 Total S discount (USGC)	
+COPBP00	
+	
+	
+	    25.08	 -1.90 Netbacks ($/mt)
+FOB West Coast North America	 CTVCB00	
+5,750	
+NAR	 max 1%	    95.30	 +0.15 Netbacks ($/st)
+FOB US East Coast*	
+COUSC00	 12,500	
+GAR	
+1.0%	
+99.59	 -2.02 FOB US Gulf Coast*	
+COUGU00	 11,500	
+GAR	
+2.9%	    65.53	 -0.13 * CV = Btu/lb
+Coal Trader
+Monday, September 16, 2024 © 2024 by S&P Global Inc. All rights reserved.
+5 Grid operator reliability concerns
+As the state moves ahead with multiple strategies to comply 
+with its aggressive climate law, the Climate Leadership and 
+Community Protection Act, a recent New York Independent 
+System Operator power grid study has indicated the power 
+supply is tightening.
+New York is advancing measures to ensure that all new 
+passenger cars and trucks sold be zero emissions by 2035, as 
+well as having all school buses be zero emissions the same year, 
+according to the statement.
+The state is also working to electrify space heating in 
+commercial buildings and homes, which will further increase 
+power demand. At the same time, power demand is increasing 
+due to construction of new industrial facilities and data centers.
+A preliminary NYISO study has found the state could be at 
+risk of insufficient power supplies of at least 1,000 MW by 2034 
+due to increasing power demand as well as assumed natural gas 
+unavailability.
+Part of the concern is that while power demand is increasing 
+from efforts to combat climate change and increase economic 
+development, tighter regulations for gas-fired power plants are 
+causing some power plants to retire, thus reducing supply while 
+demand is increasing.
+The NYISO study also found that there could be a New York 
+City transmission security margin baseline deficiency starting 
+in 2031 due to expected New York Power Authority small gas-
+fired power plant retirements, growing to 275 MW by 2034 due 
+to demand growth, according to preliminary Reliability Needs 
+Assessment results.
+By 2034, NYISO expects 2,821 MW of incremental power 
+generation capacity to be added to the system and 1,216 MW to 
+be removed. Additionally, power demand from large loads during 
+the summer peak increases from 368 MW in 2024 to 2,268 MW by 
+2034, with similar results for the winter peak.
+Demand from EVs is forecast to increase from 1,124 GWh 
+in 2024 to 36,937 GWh by 2044, according to NYISO data. 
+Additionally, power demand from electrifying buildings is 
+expected to outstrip power demand from EVs by around 2040.
+By 2044, the combined power demand from EVs and building 
+electrification is 81,821 GWh, up from a total of 1,378 GWh in 2024, 
+NYISO data shows.
+— Jared Anderson IAEA sees potential for global nuclear  
+capacity more than doubling by 2050 
+In scenario with less supportive actions, capacity could 
+rise 40% 
+Small reactors could be a quarter of new capacity 
+Slow growth in North America, Europe, jump seen in Asia World nuclear power capacity may more than double by 2050, 
+a report from the International Atomic Energy Agency said Sept. 
+16. The IAEA report assumed a strong roll out of small modular Heating/cooling degree day outlook NERC Region	
+Oct-24	
+Departure	
+Nov-24	
+Departure from normal	
+	
+from normal
+WECC	
+   81	
+  -18%	
+  225	
+  -12%
+SPP	
+  118	
+   -1%	
+  451	
+    0%
+SERC	
+   56	
+  -26%	
+  317	
+   -4%
+RFC	
+  243	
+  -16%	
+  630	
+   -1%
+NPCC	
+  183	
+  -20%	
+  527	
+   -1%
+MRO	
+  325	
+   -5%	
+  728	
+    0%
+FRCC	
+    0	
+    0%	
+   29	
+  -15%
+ERCOT	
+    7	
+ +123%	
+  136	
+   +4%
+Note: Heating Degree Days run September 1 to April 30, Cooling Degree Days run May 1 to 
+August 31
+Source: CustomWeather reactors, along with national investments in grids, reactor 
+demonstration projects, and standards harmonization.
+From a base of 372 GW global nuclear operational capacity 
+at the end of 2023, the report looked at high and low estimates 
+for likely nuclear power output by 2050, depending on policy and 
+business actions.
+“In the high case, global nuclear operational capacity is 
+projected to increase to 2.5 times the current capacity, reaching 
+950 GW by 2050,” the report said. In the low case, an increase of 
+about 40% is predicted, taking total installed capacity to 514 GW 
+in 2040.
+SMRs would account for about a quarter (24%) of total 
+installed capacity added between 2023 and 2050 in the high 
+case. In the low case the capacity added by SMRs was 6%.
+“SMRs have the potential to support smaller grids in 
+developing countries, power electricity-hungry data centers, or 
+even provide low-carbon propulsion for commercial shipping 
+vessels,” IAEA Director General Rafael Grossi said during the 
+opening session of the organization’s general conference Sept. 
+16. “But they still have challenges to overcome before they can be 
+deployed,” he added, noting that the IAEA is promoting regulatory 
+harmonization to make SMR deployment more efficient.
+Coal Trader Officers of the Corporation: Richard E. Thornburgh, Non-Executive 
+Chairman; Doug Peterson, President and Chief Executive Officer; 
+Christopher Craig Interim Chief Financial Officer; Steve Kemps, 
+Executive Vice President, General Counsel © 2024 by S&P Global Inc. All rights reserved. S&P Global, the S&P Global logo, S&P Global Commodity Insights, 
+and Platts are trademarks of S&P Global Inc.  Permission for any 
+commercial use of these trademarks must be obtained in writing 
+from S&P Global Inc. You may view or otherwise use the information, prices, indices, 
+assessments and other related information, graphs, tables and 
+images (“Data”) in this publication only for your personal use or, if 
+you or your company has a license for the Data from S&P Global 
+Commodity Insights and you are an authorized user, for your 
+company’s internal business use only. You may not publish, 
+reproduce, extract, distribute, retransmit, resell, create any 
+derivative work from and/or otherwise provide access to the Data 
+or any portion thereof to any person (either within or outside your 
+company, including as part of or via any internal electronic system 
+or intranet), firm or entity, including any subsidiary, parent, or 
+other entity that is affiliated with your company, without S&P 
+Global Commodity Insights’ prior written consent or as otherwise 
+authorized under license from S&P Global Commodity Insights. 
+Any use or distribution of the Data beyond the express uses 
+authorized in this paragraph above is subject to the payment of 
+additional fees to S&P Global Commodity Insights. S&P Global Commodity Insights, its affiliates and all of their third-
+party licensors disclaim any and all warranties, express or 
+implied, including, but not limited to, any warranties of merchantability or fitness for a particular purpose or use as to 
+the Data, or the results obtained by its use or as to the 
+performance thereof. Data in this publication includes 
+independent and verifiable data collected from actual market 
+participants. Any user of the Data should not rely on any 
+information and/or assessment contained therein in making any 
+investment, trading, risk management or other decision. S&P 
+Global Commodity Insights, its affiliates and their third-party 
+licensors do not guarantee the adequacy, accuracy, timeliness 
+and/or completeness of the Data or any component thereof or 
+any communications (whether written, oral, electronic or in other 
+format), and shall not be subject to any damages or liability, 
+including but not limited to any indirect, special, incidental, 
+punitive or consequential damages (including but not limited to, 
+loss of profits, trading losses and loss of goodwill). ICE index data and NYMEX futures data used herein are provided 
+under S&P Global Commodity Insights’ commercial licensing 
+agreements with ICE and with NYMEX. You acknowledge that the 
+ICE index data and NYMEX futures data herein are confidential 
+and are proprietary trade secrets and data of ICE and NYMEX or 
+its licensors/suppliers, and you shall use best efforts to prevent 
+the unauthorized publication, disclosure or copying of the ICE 
+index data and/or NYMEX futures data. Permission is granted for those registered with the Copyright 
+Clearance Center (CCC) to copy material herein for internal 
+reference or personal use only, provided that appropriate 
+payment is made to the CCC, 222 Rosewood Drive, Danvers, MA 
+01923, phone +1-978-750-8400. Reproduction in any other form, or 
+for any other purpose, is forbidden without the express prior 
+permission of S&P Global Inc. For article reprints contact: The YGS 
+Group, phone +1-717-505-9701 x105 (800-501-9571 from the U.S.). For all other queries or requests pursuant to this notice, please 
+contact S&P Global Inc. via email at ci.support@spglobal.com. Coal Trader is published every business day by S&P Global 
+Commodity Insights, a division of S&P Global, registered office: 
+20 Canada Square, Canary Wharf, London, E14 5LH. Head of Global Coal – Pricing
+Deepak Kannan, +91-124-612-7258, deepak.kannan@spglobal.com Associate Editor
+Michael Fox, +1-832-450-1549, michael.fox@spglobal.com
+Morgan Snook, +1-570-505-9285, morgan.snook@spglobal.com Global Head of Generating Fuels & Electric Power Pricing
+Francis Browne President of S&P Global Commodity Insights
+Saugata Saha Contact Client Services: ci.support@spglobal.com
+Americas: +1-800-752-8878
+Europe & Middle East: +44-20-7176-6111
+Asia Pacific: +65-6530-64300 Advertising
+Tel: +1-212-884-9534
+Manager, Advertisement Sales
+Joseph Mennella,
+joseph.mennella@spglobal.com 1555-3485
+ISSN: Coal Trader
+Monday, September 16, 2024 © 2024 by S&P Global Inc. All rights reserved.
+6 The IAEA said the high case is “plausible and technically 
+feasible, and it is possible that capacity could increase beyond 
+that projected.”
+However, “enabling factors” needed to reach or exceed the 
+high case predictions include “national policies and strategies,” 
+in for instance “supporting investment, demonstration projects 
+for new reactor technologies, investment in grids, supply chain 
+management for reactor construction, regulatory collaboration 
+and global harmonization (particularly for SMR development).”
+In North America, the low case assumed 89 GW installed 
+capacity in 2050, or 228 GW in the high case, compared with 109.5 
+in 2023. For north, west and southern Europe, the 2050 low and 
+high estimates figures are 69 GW or 135 GW, respectively. The low 
+case represented a decline from 2023 levels of 93.8 GW.
+Most growth would be seen in Central and Eastern Asia with 
+207 GW in the low case and 297 GW in the high case, up from 91.9 
+GW in 2023. Considerable growth was forecast in Eastern Europe 
+and South Asia in both scenarios. Fossil fuels still dominate power mix
+Hydro power and nuclear were the largest sources of “low 
+carbon electricity” in 2023, the report said. Nuclear contributed 
+9.2% of global electricity production in 2023, with hydro power 
+adding about 15% although “its share has been gradually 
+declining since 1980.” Wind and solar provided 13% in 2023.
+“The share of hydro and nuclear has declined gradually over 
+the past 30-40 years owing to a lack of investment,” the report 
+found. However, “with a share of about 60%, fossil fuels — 
+particularly coal — have remained dominant energy sources for 
+electricity production since 1980.”
+The report assumes that global final energy consumption will 
+have dropped by 2% by 2050 and that electricity production will “more than” double.
+European industry representatives Nuclear Europe said [in an 
+email] they planned to publish their own report “in the coming 
+weeks looking at what different nuclear capacity scenarios in 
+2050 would bring as benefits to the European energy system.”
+— Emily Waterfield Export Markets Alberta July coal production holds  
+mostly steady on month at 1.3 MMt: AER 
+Coal Valley production surge boosts total 
+Province exports 609,709 t to South Korea A spike in output from producer Coal Valley helped monthly 
+Alberta coal production remain mostly stable in July, according to 
+Sept. 16 data from the Alberta Energy regulator.
+The province posted 1.3 million metric tons of output in July, 
+just 1,820 t ahead of its June production total and 80,723 t above 
+its 2024 monthly average.
+AER reports monthly totals roughly six weeks after the 
+conclusion of the production period.
+Coal Valley’s 425,707 t output total was 154,282 t higher than 
+its June production number and 215,359 t above the July 2023 
+figure. The output was its highest since March 2023 and pushed 
+its monthly average for the year to 269,354 t.
+Coalspur’s July production total fell to a 2024-low 818,378 t, 
+down 172,429 t, or 13.3%, from June. The company’s 2024 monthly 
+output average fell to 869,857 t.
+Alberta’s July thermal coal production dipped 1.3% to 1.25 
+MMt, and 16,915 t that moved its monthly average up to 1.143
+Coal Trader
+Monday, September 16, 2024 © 2024 by S&P Global Inc. All rights reserved.
+7 MMt. The province’s metallurgical coal output reached 52,696 t, 
+up 55.2%, or 18,735 t, from June.
+The province exported 662,623 t of coal in July, down 68,140 t, 
+or 9.3%, from June’s total. The 609,709 t exported from Alberta to 
+South Korea was the highest total to the Asian country in 15 years 
+of records. The province also exported coal to Japan and Brazil 
+in July.
+Platts, part of S&P Global Commodity Insights, assessed FOB 
+US West Coast North American 5,750 Kcal/kg coal for prompt-
+month delivery at $95.30/t on Sept. 16, up 15 cents from its 
+previous assessment.  — Michael Fox Colombia seaborne coal exports  
+remain flat on week at 1.1 MMt: CAS 
+Thermal coal exports fall 0.3% on week to 945,766 t 
+Panama is primary thermal coal destination, to receive 
+181,342 t 
+FOB Colombia 6,000 kcal/kg NAR coal price rises $1 to $85/t Colombia seaborne thermal and metallurgical coal exports 
+were flat on the week at 1.1 million metric tons in the week 
+ended Sept. 15, according to Sept. 16 data from S&P Global 
+Commodities at Sea.
+Seaborne thermal coal exports ticked 0.3% lower on the 
+week to 945,766 t. Metallurgical coal exports declined 18.8% to 
+140,031 t.
+Platts, part of S&P Global Commodity Insights, assessed FOB 
+Colombia 6,000 kcal/kg NAR 0.8%S coal up $1 on the session 
+at $85/t on Sept. 13. The Colombia thermal coal price has been 
+rangebound between $84/t and $85/t since the Aug. 16, 2024, 
+session.
+Panama was the primary destination for Colombia seaborne 
+thermal coal exports, due to receive 181,342 t exported in the 
+week ended Sept. 16, followed by Brazil with 168,431 t and the 
+Netherlands with 166,000 t. The remaining destinations were 
+South Korea with 154,161 t, Poland with 90,985 t, Chile with 80,104 
+t, the Dominican Republic with 66,628 t and Puerto Rico with 
+38,115 t. Weekly coal production totals (thousand st) Week ended	
+Year-to-date 09/07/24	
+09/07/23	
+09/07/24	
+09/07/23 Wyoming & Montana	
+4,723	
+5,299	
+145,001	
+182,020
+Central Appalachia	
+1,425	
+1,393	
+51,005	
+52,660
+Northern Appalachia	
+1,570	
+1,598	
+54,542	
+60,953
+Illinois Basin	
+1,346	
+1,378	
+48,673	
+54,172
+US Total	
+10,402	
+11,075	
+345,361	
+399,587 Source: EIA Weekly price survey, traditional physical market, week 
+ending Sep 13 Origin/Product	
+Btu/lb	
+SO2 lb	
+Transport	
+	
+Prompt	
+Change mode	
+	
+quarter ($/st) Northern Appalachia
+Pittsburgh Seam	
+13,000	
+4	
+Rail	
+CNDQ001	
+49.85	
+-0.15 Upper Ohio River	
+12,500	
+6+	
+Barge	
+CNEQ001	
+46.00	
++0.10 Central Appalachia
+CAPP barge physical	
+12,000	
+1.67	
+Barge	
+CNNQ001	
+71.25	
+-1.00 CAPP rail (CSX) physical	 12,500	
+1.6	
+CSX	
+CAEQ001	
+73.50	
+-0.50 Thacker/Kenova	
+12,500	
+1.6	
+NS	
+CAGQ001	
+74.75	
+-0.50 Illinois Basin
+	
+11,800	
+5	
+Rail	
+CIAQ001	
+40.00	
+-0.65 11,800*	 5	
+Barge	
+CTPQ001	
+42.00	
+-0.65 11,500	
+5	
+Barge	
+CIEQ001	
+43.50	
+-0.65 11,000	
+5	
+Barge	
+CICQ001	
+38.00	
+-0.65 Powder River Basin
+	
+9,400	
+0.8	
+Rail	
+CRPQ001	
+14.95	
+0.00 8,800	
+0.8	
+Rail	
+CRAQ001	
+13.95	
+0.00 8,400	
+0.8	
+Rail	
+CRBQ001	
+11.40	
+0.00 Rocky Mountains
+Colorado	
+11,300	
+0.8	
+Rail	
+CURQ001	
+78.50	
+0.00
+Utah	
+11,500	
+0.8	
+Rail	
+CUDQ001	
+80.50	
+0.00 *High chlorine (max 0.35%)
+Physical bids, offers and trades, Sep 16 Type	
+Product	
+Term	
+Year	
+Price	
+Vol/m	 Notes	
+Tons ($/st)	
+	
+	
+(‘000) I	
+CSX	
+October	
+2024	
+72.5
+I	
+PRB 8800	
+October	
+2024	
+14
+I	
+PRB 8400	
+October	
+2024	 11.55
+I	
+IB 11500	
+October	
+2024	 39.75
+I	
+CSX	
+Q4	
+2024	
+72.5
+I	
+PRB 8800	
+Q4	
+2024	
+14
+I	
+PRB 8400	
+Q4	
+2024	 11.55
+I	
+IB 11500	
+Q4	
+2024	 39.75
+I	
+CSX	
+October	
+2024	
+74.5
+I	
+PRB 8800	
+October	
+2024	
+13.9
+I	
+PRB 8400	
+October	
+2024	 11.25
+I	
+IB 11500	
+October	
+2024	 41.25
+I	
+CSX	
+Q4	
+2024	
+74.5
+I	
+PRB 8800	
+Q4	
+2024	
+13.9
+I	
+PRB 8400	
+Q4	
+2024	 11.25
+I	
+IB 11500	
+Q4	
+2024	 41.25
+I	
+CSX	
+October	
+2024	
+74.5
+I	
+PRB 8800	
+October	
+2024	
+13.9
+I	
+PRB 8400	
+October	
+2024	 11.25
+I	
+IB 11500	
+October	
+2024	 41.25
+I	
+CSX	
+Q4	
+2024	
+74.5
+I	
+PRB 8800	
+Q4	
+2024	
+13.9
+I	
+PRB 8400	
+Q4	
+2024	 11.25
+I	
+IB 11500	
+Q4	
+2024	 41.25
+Coal Trader
+Monday, September 16, 2024 © 2024 by S&P Global Inc. All rights reserved.
+8 The top thermal coal loading port in Colombia in the week 
+ended Sept. 15 was Puerto Drummond at 712,362 t, followed by 
+Puerto Bolivar at 154,161 t and Puerto Nuevo, 79,243 t.
+Three companies shipped thermal coal in the latest reported 
+week, according to CAS data — Drummond shipped 712,362 t, 
+Cerrejon shipped 154,161 t and Prodeco Group shipped 79,243 t.
+Colombia seaborne met coal exports were bound for four 
+destinations. Poland was due to receive 54,506 t loaded from 
+Puerto Brisa, Denmark was due to receive 37,339 t loaded 
+from Mamonal, Brazil was due to receive 27,126 t loaded from 
+Barranquilla and China was due to receive 21,060 t loaded from 
+Buenaventura.
+— Morgan Snook SOUTH KOREA DATA: August coal imports fall 5.5% 
+on year on decline from small importers 
+Australia replaces Indonesia as top supplier 
+Indonesia, Russia coal exports to South Korea rise South Korean imports fell 5.5% on the year to 11.11 million mt in 
+August due to a sharp decline in shipments from small importers 
+and Australia, despite lower average landed prices, according to 
+customs data seen Sept. 16.
+The average landed price of total imports fell to $136.78/mt in 
+August, from $145.95/mt in the year ago period, the data showed. 
+The average landed price in July was $128.15/mt.
+Even as Indonesia’s coal exports to South Korea rose 9.9% 
+year on year to 2.49 million mt in August, Australia was the 
+biggest supplier in August at 2.81 million mt exported. The 
+average landed price of Australian thermal coal rose to $195.24/
+mt in August, from $187.07/mt a year ago. However, the average 
+landed price for Indonesian coal fell to $83.84/mt in August from 
+$84.59/mt in the same month a year ago.
+The average price of FOB Newcastle Australian 5,500 kcal/kg 
+NAR stood at $87.33/mt in August, down from $87.80/mt in July, 
+according to Platts assessments from S&P Global Commodity 
+Insights. Platts assessed the price at $86.75/mt on Sept. 13.
+Coal supplies from Mozambique and South Africa to South 
+Korea fell sharply in August. Exports of coal from Mozambique 
+plunged 67.7% on the year in August to 53,022 mt. Meanwhile, 
+there were no exports of coal from South Africa to South Korea 
+in August, compared to South Africa having sent 976,455 mt in 
+August 2023.
+Thermal coal prices fell in August due to sluggish demand 
+from top importers. Rainfall in China and India, coupled with 
+sufficient stocks at ports, reduced coal buying appetite from 
+India and China, which decreased demand for spot cargoes. 
+Market participants anticipated demand to pick up as rains 
+subside and as China begins restocking for the winter season and 
+building stocks for the upcoming festival season.
+Russia was the third largest supplier to South Korea in August, 
+sending 2.42 million mt of coal, up 6.2% on the year. The average 
+landed price of Russian imports fell to $120.83/mt in August from $136.40/mt a year ago.
+The Platts NEAT index assessment for 5,750 kcal/kg NAR 
+delivered to Kinuura, Japan, on a CFR basis averaged $112.68/mt 
+in August, up from $109.13/mt a year ago. This assessment is a 
+popular price reference point for cargoes supplied in Northeast 
+Asia, including to South Korea and Taiwan.
+South Korea imported 119.46 million mt of coal in all of 2023, 
+down from 125.15 million in 2022.
+— Aditya Saroha Russia’s Rosatom says it could restart  
+occupied Ukrainian nuclear plant 
+Rosatom may put Zaporizhzhia back  
+online following a two-year outage 
+Likhachev blames Ukrainian authorities  
+for damaging plant’s infrastructure 
+Obligations under international contracts  
+are fulfilled despite sanctions Rosatom is ready to start work on resuming operation of 
+the Zaporizhzhia nuclear plant controlled by Russian forces as 
+soon as the military situation permits, Alexey Likhachev, CEO of 
+Russian state nuclear company Rosatom, said Sept. 16.
+Speaking at the International Atomic Energy Agency 
+general conference in Vienna, Likhachev did not elaborate on 
+the conditions necessary for the plant to resume generating 
+electricity, only stressing the plant’s physical safety and security 
+were Rosatom’s “unconditional priority.” He added that the 
+Russian nuclear company ensures a constant thermal, water, and 
+power supply to the facility.
+Rosenergoatom, Rosatom’s department for Russian nuclear 
+plant management, shut Zaporizhzhia-6, the last unit at the 
+nuclear plant remaining in operation at that time. Rosenergoatom 
+cited mounting security concerns as a rationale behind the 
+decision.
+The Zaporizhzhia plant has been under the control of the 
+Russian troops since early March while remaining near the 
+frontline and suffering from constant shelling.
+On Oct. 6, Putin issued a decree to transfer the plant to 
+Rosatom. Ukraine described the decree as illegal and called on 
+Western countries to impose sanctions against Rosatom.
+Likhachev blamed the Ukrainian authorities for “reckless 
+actions,” which he emphasized “threaten not only Russia 
+but also the entire nuclear energy” industry. The threats 
+are not potential, and some of them have fully materialized, 
+referring to “recorded damage” to the plant’s infrastructure, 
+social facilities and “places where plant employees live,” 
+he added.
+Ukraine has also threatened the Kursk nuclear plant in Russia, 
+Likhachev stated. Ukrainian forces have taken over a portion of 
+the region in which that plant is located.
+“Kyiv’s behavior requires an adequate response, including from 
+international organizations,” he said.
+US OTC coals open week with unchanged finishes ...from page 1 All assessed prompt-month and -quarter coals remained 
+at parity.
+Platts assessed Central Appalachian 12,500 Btu/lb CSX rail 
+coal for October delivery at $73.50/st, a number influenced 
+by broker indications of value at $74.50/st and $72.50/st. The 
+assessment has held in the last four sessions. Prompt-quarter 
+CAPP rail coal drew identical indications.
+Illinois Basin 11,500 Btu/lb barge coal for October has held at 
+$40.50/st for a week, an assessment influenced by indications at 
+$41.25/st and $39.75/st.
+The Powder River Basin coals have held their assessments 
+throughout prompt-month October. PRB 8,800 Btu/lb for October 
+drew indications of value at $13.90/st and $14/st on its way to a 
+$13.95/st assessment. Prompt-month and -quarter PRB 8,400 
+fuels continued at $11.40/st.
+All coal assessments were tested in the market until 
+4:30 pm ET. The day’s movement for OTC coal interests came from the 
+NYMEX Henry Hub natural gas market, which added 6.8 cents 
+to finish at $2.373/MMBtu. One year ago, the contract stood at 
+$2.644/MMBtu.
+Platts is part of S&P Global Commodity Insights.
+— Michael Fox Coal Trader
+Monday, September 16, 2024 © 2024 by S&P Global Inc. All rights reserved.
+9 The IAEA has stationed observers at Zaporizhzhia in an effort 
+to support nuclear safety. It has called for a halt to fighting 
+around all nuclear plants in the region, and has supported 
+the Ukrainian nuclear regulator’s decision to order all units at 
+Zaporizhzhia shut due to safety concerns.
+Ukrainian authorities have blamed Russia for damage to 
+Zaporizhzhia and surrounding transmission infrastructure.
+Likhachev also said Rosatom was committed to fulfilling 
+its obligations under international agreements “despite 
+unprecedented and illegal sanction pressure.”
+“None of our construction projects have been stopped,” 
+Likhachev said. Rosatom commissioned Ostravets-2 in Belarus in 
+2023 and is proceeding with large-capacity nuclear plant projects 
+in Bangladesh, Egypt, Hungary, Iran and Turkey, he added.
+Rosatom’s press office confirmed Likhachev’s comments, 
+initially carried on Russian state media, in an email Sept. 16, but 
+declined to provide additional comments.
+— Vladislav Vorotnikov Assessment Rationales Platts Coal US PRB 8,800 OTC Daily Rationale
+Platts assessed physical PRB 8,800 Btu/lb coal for October 
+delivery at $13.95/st Sept. 16, unchanged from the previous 
+session, based on indications of value at $13.90/st and $14/
+st, tested in the market through 4:30 pm ET. The assessment 
+excluded no data.
+Platts is part of S&P Global Commodity Insights.
+This rationale applies to symbol(s) <CTAM001>. Platts Coal US CAPP Rail CSX OTC Daily Rationale
+Platts assessed physical CAPP rail (CSX) coal for October 
+delivery at $73.50/st Sept. 16, unchanged from the previous 
+session, based on indications of value at $74.50/st and $72.50/
+st, tested in the market through 4:30 pm ET. The assessment 
+excluded no data.
+Platts is part of S&P Global Commodity Insights.
+This rationale applies to symbol(s) <CAKM001>. Coal EMEA CIF ARA Daily
+Platts assessed the 15- to 60-day price of CIF ARA 6,000 kcal/
+kg NAR coal at $110.80/mt Sept. 16, down $1.50/mt from Sept. 13.
+A bid and an offer for CIF ARA 6,000 kcal/kg NAR coal were 
+heard at $110.75/mt and $111.50/mt, respectively, for an October-
+loading 50,000-mt cargo.
+Another bid and offer were heard at $110.50/mt and $112.25/
+mt, respectively, for a November-loading 50,000-mt cargo.
+No trades were heard for the CIF ARA 6,000 kcal/kg NAR coal.
+Platts is part of S&P Global Commodity Insights.
+The above rationale applies to the CIF ARA 6,000 kcal/kg NAR 
+assessment, with the associated code: CSARM01
+LIVE Stay current on the most significant  
+events in global energy and commodities  
+markets and connected with the  
+industry’s most influential thought leaders. Visit cilive.com Community
